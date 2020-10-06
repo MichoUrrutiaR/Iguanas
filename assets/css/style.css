@@ -1,0 +1,147 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+  text-decoration:none;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 3.125rem;
+  text-align: center;
+  margin: 0.44rem 0;
+}
+
+.hero-iguana img{
+  width: 100%;
+}
+
+.desc-section {
+  text-align: left;
+  background: #000000;
+  color: #ffffff;
+  white-space: nowrap;
+  padding: 0%;
+  margin: 0%;
+}
+
+.img-descriptiva{
+  width: 31.17%;
+  margin-top: 2.813rem;
+  margin-bottom: 4.125rem;
+  margin-left: 8.3%;
+  vertical-align: middle;
+}
+
+.texto-descriptivo {
+  display: inline-block;
+  width: 37%;
+  vertical-align: middle;
+  white-space: normal;
+  margin-left: 11.71%;
+}
+
+.caracteristicas{
+  background-color: #1E1A13;
+  opacity: 98%;
+  margin: 0%;
+  padding: 4.7rem 0rem;
+}
+
+.caracteristicas i{
+  margin: 0 0.25em 0.5em 0.25em;
+  font-size: 3.56rem;
+}
+
+.tercer-ojo{
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  margin-left: 23.51%;
+}
+
+.pacificas{
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  margin-left: 14.21%;
+}
+
+.cambian-de-color{
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  margin-left: 11.32%;
+
+}
+
+section{
+  margin: 0;
+}
+
+footer{
+  background-color: #1E1A13;
+  opacity: 98%;
+  text-align: center;
+  padding: 3.125rem;
+}
+
+/**
+.descripcion-iguana{
+  width: 76.57%;
+  margin: 0 auto;
+}
+
+
+.texto-descriptivo{
+  width: 48.46%;
+  display: inline-block;
+  margin: 4.75rem 0rem;
+}
+
+.img-descriptiva{
+  width: 40.71%;
+  margin: 2.8rem 0rem;
+}
+**/
+
+h2 {
+  font-weight: 300;
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 0 0 3.125rem 0;
+}
+
+h3{
+  font-weight: 300;
+  font-size: 1.5rem;
+  text-align: center;
+  margin: 0;
+}
+
+.container{
+  width: 100%;
+  margin: auto;
+  padding: 0 11.7%;
+}
+
+.galeria img{
+    width: 100%;
+    display: inline-block;
+}
+
+.galeria{
+    width: 23%;
+    display: inline-block;
+    padding: 2rem 0rem; /*grasa parda*/
+    box-sizing: border-box; /*resta y calcula automáticamente hasta llegar al borde*/
+    margin: 0.5%;
+}
+
+
+
+footer a {
+  color: #ffffff;
+  text-decoration: none;
+}
